@@ -1,0 +1,4 @@
+Oct 12 10:22:34 server1 sshd[123]: Failed password for root from 192.168.1.5
+Oct 12 10:25:01 server1 CRON[456]: pam_unix(cron:session): session opened for user root
+Oct 12 10:28:15 server2 kernel[0]: Out of memory: Kill process 789 (apache2) score 51
+Oct 12 10:30:00 server1 systemd[1]: Started Session 4 of user emre.
